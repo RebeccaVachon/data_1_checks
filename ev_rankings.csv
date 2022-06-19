@@ -1,0 +1,19 @@
+﻿Year,Make,Model,Type,CR_Score,Consumer_Reports_Recommended,Base_MSRP_Range_Low,Base_MSRP_Range_High,Range,Overall_Mileage,IIHS_Overall_Rating,ADAS_systems,ADAS_CR_Score,Comma_Compatiable
+2022,Audi,e-tron,EV,49,No,52700,87400,205,74,Top Safety Pick+,Driver Assistance Plus,48,no
+2022,Chevrolet,Bolt EUV,EV,65,No,33500,38000,245,115,n/a,Driver Confidence,36,no
+2022,Chevrolet,Bolt,EV,62,No,31500,34700,260,120,n/a,Driver Confidence,36,no
+2022,Ford,Mustang Mach-E,EV,88,Yes,39090,44650,270,90,Top Safety Pick,Co-Pilot 360,52,no
+2022,Hyundai,Kona Electric,EV,61,No,34000,42500,260,120,n/a,Smart Sense,46,no
+2022,Hyundai,Ioniq 5,EV,80,Yes,39950,55000,255,98,n/a,Smart Sense,46,no
+2022,Jaguar,I-Pace,EV,58,No,69900,,235,76,n/a,n/a,n/a,no
+2022,Kia,Niro Electric,EV,88,Yes,39090,44650,240,112,n/a,Drive Wise,46,Gold
+2022,Nissan,Leaf,EV,78,Yes,27400,37400,215,104,n/a,ProPILOT Assist,40,Bronze
+2022,Polestar,2,EV,57,No,45900,49900,235,92,n/a,n/a,n/a,no
+2022,Porsche,Taycan,EV,61,No,82700,187600,205,69,n/a,Active Safe,41,no
+2022,Tesla,Model 3,EV,79,Yes,46990,62990,310,130,Top Safety Pick+,Autopilot,57,no
+2022,Tesla,Model S,EV,60,No,99990,135990,405,120,n/a,Autopilot,57,no
+2022,Tesla,Model Y,EV,59,No,62990,67990,315,121,Top Safety Pick+,Autopilot,57,no
+2022,Tesla,Model X,EV,41,No,114990,138990,350,102,n/a,Autopilot,57,no
+2022,Toyota,RAV4 Prime,PHEV,88,Yes,40300,43625,540,72,Top Safety Pick+ ,Safety Sense 2.0,40,Silver
+2022,Toyota,Prius Prime,PHEV,79,Yes,28670,34450,590,69,n/a,Safety Sense 2.0,40,Gold
+2022,Volkswagen,ID4,EV,59,No,41230,49410,240,93,Top Safety Pick+,n/a,n/a,no
